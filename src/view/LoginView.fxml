@@ -27,7 +27,7 @@
       </AnchorPane>
    </bottom>
    <top>
-      <AnchorPane prefHeight="125.0" prefWidth="300.0" style="-fx-background-color: #191970;" BorderPane.alignment="CENTER">
+      <AnchorPane prefHeight="125.0" prefWidth="300.0" style="-fx-background-color: #7d0a59;" BorderPane.alignment="CENTER">
          <children>
             <VBox alignment="CENTER" prefHeight="121.0" prefWidth="300.0" spacing="10.0">
                <children>

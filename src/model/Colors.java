@@ -2,9 +2,9 @@ package model;
 
 
 public class Colors {
-    public static final String MAIN_RED = "#c92d39";
-    public static final String LIGHT_RED = "#da6770";
-    public static final String MAIN_BLUE = "#001d4c";
+    public static final String MAIN_RED = "#c90817";
+    public static final String LIGHT_RED = "#f76571";
+    public static final String MAIN_PURPLE = "#7d0a59";
     public static final String WHITE = "#ffffff";
     public static final String BLACK = "#000000";
     public static final String LIGHT_GREY = "#eaeaea";
