@@ -13,7 +13,7 @@ import java.util.*;
 
 public class PasswordManagerModel {
     private Map<String, User> userMap;
-    private User currentUser; // the current user, i.e. whoever logged in
+    private User currentUser; // the current user, whoever logged in
     private String usersDirectory;
 
     public static final int MIN_PASSWORD_LENGTH = 6;

@@ -11,8 +11,6 @@ public class AddPassController extends SmallWindowController {
 
     @FXML
     private TextField domainTextField;
-    @FXML
-    private TextField details;
 
     @FXML
     private PasswordField passwordField2;

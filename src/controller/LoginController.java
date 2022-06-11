@@ -89,5 +89,4 @@ public class LoginController extends SmallWindowController {
 
     public void registerButtonOnExit() { registerButton.setStyle(Colors.setBackgroundColor(Colors.WHITE)); }
 
-    // https://stackoverflow.com/questions/17014012/how-to-unmask-a-javafx-passwordfield-or-properly-mask-a-textfield
 }
